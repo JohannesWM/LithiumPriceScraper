@@ -11,7 +11,7 @@ developer_email = "johanwm28@gmail.com"
 
 def lithium_mail(receiver_email, subject, body, error=False):
     sender_email = "jmailtest28@gmail.com"
-    password = "ikfc jfvo rkgh kjno"
+    password = "rjku aamg apvd tvwp"
 
     # Create a multipart message and set headers
     message = MIMEMultipart()
